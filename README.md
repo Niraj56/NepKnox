@@ -1,5 +1,5 @@
 # NepKnox 
-Hello people, this is the game I made. I am just uploading the source code if it can help you to make games like this. So feel free to use it.  
+Hello people, this is the game I made. I am just uploading the source code if it can help you to make games like this. I have included assests used in this game along with the sound. So feel free to use it. Best regards!
 
 "NepKnox" is the Nepal's first adventurous game. It's story of Knox, the player, who later on fights with Niru, the boss.
 ![sprite54-sheet0](https://user-images.githubusercontent.com/43477992/74697799-cbeffb00-51c9-11ea-959f-78c751acdbae.png)
