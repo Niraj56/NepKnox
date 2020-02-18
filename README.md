@@ -9,6 +9,9 @@ Knox has to explore beautiful places of Nepal to search Niru.
 
 ![Main Theme](https://user-images.githubusercontent.com/43477992/74697768-b8449480-51c9-11ea-98ac-eb7791f1a30a.png)
 
+NepKnox has 10 levels for now, but I am still working on some dope levels regardless.
+![Screenshot_20171123-111155](https://user-images.githubusercontent.com/43477992/74698176-f42c2980-51ca-11ea-8b63-f94c37616e43.png)
+
  ## Remember
 
 • Knox has to pass different levels full of challenges. In order to unlock the new levels,
@@ -59,13 +62,15 @@ Knox, has to travel miles of the distances in order to search Niru.
 
 ![1](https://user-images.githubusercontent.com/43477992/74697775-c1cdfc80-51c9-11ea-83ca-2b71aa555aaf.png)
 
+
 ![2](https://user-images.githubusercontent.com/43477992/74697776-c2669300-51c9-11ea-8ede-733accf0f10a.png)
+
 
 ![Level](https://user-images.githubusercontent.com/43477992/74697777-c2669300-51c9-11ea-981f-257c7280d00a.png)
 
+
 ![Screenshot_20171123-111135](https://user-images.githubusercontent.com/43477992/74698174-f2fafc80-51ca-11ea-8e0e-d420f4bf1959.png)
 
-![Screenshot_20171123-111155](https://user-images.githubusercontent.com/43477992/74698176-f42c2980-51ca-11ea-8b63-f94c37616e43.png)
 
 ![Screenshot_20171123-111400](https://user-images.githubusercontent.com/43477992/74698178-f4c4c000-51ca-11ea-9bf0-cdaeb0bba8fb.png)
 
