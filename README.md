@@ -1,6 +1,7 @@
 # NepKnox 
 "NepKnox" is the Nepal's first adventurous game. It's story of Knox, the player, who later on fights with Niru, the boss.
 ![sprite54-sheet0](https://user-images.githubusercontent.com/43477992/74697799-cbeffb00-51c9-11ea-959f-78c751acdbae.png)
+
 Niru, the boss of the game has stolen the gun and the golden sword gifted by his ancestors, and has become successful in escaping.
 Knox, the hero, our fearless adventurer sets all ready to the rescue to bring the gun and the sword into his home land "Nepal".
 
