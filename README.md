@@ -9,7 +9,8 @@ Knox has to explore beautiful places of Nepal to search Niru.
 
 ![Main Theme](https://user-images.githubusercontent.com/43477992/74697768-b8449480-51c9-11ea-98ac-eb7791f1a30a.png)
 
-NepKnox has 10 levels for now, but I am still working on some dope levels regardless.
+
+ ### NepKnox has 10 levels for now, but I am still working on some dope levels regardless. ###
 ![Screenshot_20171123-111155](https://user-images.githubusercontent.com/43477992/74698176-f42c2980-51ca-11ea-8b63-f94c37616e43.png)
 
  ## Remember
