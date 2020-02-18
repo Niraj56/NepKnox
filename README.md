@@ -1,8 +1,6 @@
 # NepKnox 
 "NepKnox" is the Nepal's first adventurous game. It's story of Knox, the player, who later on fights with Niru, the boss.
-
 ![sprite54-sheet0](https://user-images.githubusercontent.com/43477992/74697799-cbeffb00-51c9-11ea-959f-78c751acdbae.png)
-
 Niru, the boss of the game has stolen the gun and the golden sword gifted by his ancestors, and has become successful in escaping.
 Knox, the hero, our fearless adventurer sets all ready to the rescue to bring the gun and the sword into his home land "Nepal".
 
@@ -26,21 +24,34 @@ Knox, has to travel miles of the distances in order to search Niru.
 
  ## Knox's amazing abilities.
 • Knox can jump, and shoot bullets.
+
 • He can jump and shoot simultaneously.
+
 • He can jump on almost all the enemies’ head and can kill them off.
+
 • He has to rule different levels, in order to defeat Niru.
 
  ## Features of NepKnox
 • Explore and collect all the coins.
+
 • Smooth Touch Controls.
+
 • AI included in the touch controls, which will minimize your battery drainage.
+
 • Amazing and High definition Visuals.
+
 • Incredible Graphics.
+
 • Enemies with Artificial Intelligent.
+
 • Lots of enemies and a boss, "Niru" to defeat.
+
 • And lots of fun.
+
 • Hidden items like coins, bullets, and some bonus gifts.
+
 • Invisibly linked objects to each other.
+
 • Some immortal enemies
 
  ## Some Levels images are below:
@@ -60,12 +71,19 @@ Knox, has to travel miles of the distances in order to search Niru.
 
  ## WHAT'S NEW
 • Smooth Touch Controls
+
 • Player Can Increase its life
+
 • Number of bullets increased
+
 • AI Included
+
 • Enemies with Artificial Intelligent
+
 • Amazing and High Definition Graphics
+
 • No Lags
+
 • Hints Added
 
  ## Contributing
